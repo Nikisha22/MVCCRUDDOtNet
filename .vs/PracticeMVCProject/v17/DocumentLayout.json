@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\home\\_getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\home\\_getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\models\\userlistedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:models\\userlistedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\practicemvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:practicemvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|c:\\users\\nikisa parajuli\\source\\repos\\practicemvcproject\\models\\mvcfirstprojectdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17493098-764B-4F7C-B289-41878B49C485}|PracticeMVCProject.csproj|solutionrelative:models\\mvcfirstprojectdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:29:57.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:36:32.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_GetUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\_GetUsers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_GetUsers.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\_GetUsers.cshtml",
+              "RelativeToolTip": "Views\\Home\\_GetUsers.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:37:17.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:00:05.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:45:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:44:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:44:19.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T08:47:23.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAUwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:45:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:47:31.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSecurityProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Security\\DataSecurityProvider.cs",
+              "RelativeDocumentMoniker": "Security\\DataSecurityProvider.cs",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Security\\DataSecurityProvider.cs",
+              "RelativeToolTip": "Security\\DataSecurityProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:32:33.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserListEdit.cs",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Models\\UserListEdit.cs",
+              "RelativeDocumentMoniker": "Models\\UserListEdit.cs",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Models\\UserListEdit.cs",
+              "RelativeToolTip": "Models\\UserListEdit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:35:06.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Models\\UserList.cs",
+              "RelativeDocumentMoniker": "Models\\UserList.cs",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Models\\UserList.cs",
+              "RelativeToolTip": "Models\\UserList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:32:28.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PracticeMVCProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\PracticeMVCProject.csproj",
+              "RelativeDocumentMoniker": "PracticeMVCProject.csproj",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\PracticeMVCProject.csproj",
+              "RelativeToolTip": "PracticeMVCProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T02:14:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MvcfirstProjectDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Models\\MvcfirstProjectDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Models\\MvcfirstProjectDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Nikisa parajuli\\source\\repos\\PracticeMVCProject\\Models\\MvcfirstProjectDatabaseContext.cs",
+              "RelativeToolTip": "Models\\MvcfirstProjectDatabaseContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:44:02.915Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
